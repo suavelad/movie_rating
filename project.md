@@ -57,16 +57,16 @@
      API Doc can be accessed: {base_url}/api/doc/
 
 
-# LLM Implementation
+## LLM Implementation
     I made use of OpenAI prompt API to get the movie summary.
 
 
-# Challenges:
+## Challenges:
     1. LLM Implementation: Due to my current novice experience with LLM , I had to rely on OpenAI API system
     2. I could not test the LLM Implementation because I had exhausted my  quota
 
 
-# Solution Brief:
+## Solution Brief:
     From this implementation, A user can :
         - Create a movie
             - When creating a movie, the following activities are done:
